@@ -1,0 +1,13 @@
+{
+  "name": "simon-gemu",
+  "version": "1.0.0",
+  "description": "Simon says game",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "William Chou",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
